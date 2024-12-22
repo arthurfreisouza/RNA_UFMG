@@ -1,0 +1,25 @@
+SITES QUE VI:
+https://www.datature.io/blog/a-comprehensive-guide-to-neural-network-model-pruning
+https://www.red-gate.com/simple-talk/homepage/decoding-efficiency-in-deep-learning-a-guide-to-neural-network-pruning-in-big-data-mining/
+
+
+
+
+
+
+
+
+
+
+Why is Model Pruning Important?
+https://arxiv.org/pdf/1803.03635
+
+
+Unstructured Pruning
+https://openaccess.thecvf.com/content/ICCV2021W/LPCV/papers/Lazarevich_Post-Training_Deep_Neural_Network_Pruning_via_Layer-Wise_Calibration_ICCVW_2021_paper.pdf
+
+
+
+Structured Pruning
+https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_DepGraph_Towards_Any_Structural_Pruning_CVPR_2023_paper.pdf
+

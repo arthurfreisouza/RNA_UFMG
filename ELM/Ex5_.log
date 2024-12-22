@@ -1,0 +1,347 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.10)  14 APR 2024 19:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Ex5_.tex
+(./Ex5_.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+)
+(./Ex5_.aux)
+\openout1 = `Ex5_.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen142
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+<exercise_pic/normals/plot_data_normals.png, id=1, 941.5175pt x 621.32124pt>
+File: exercise_pic/normals/plot_data_normals.png Graphic file (type png)
+<use exercise_pic/normals/plot_data_normals.png>
+Package pdftex.def Info: exercise_pic/normals/plot_data_normals.png  used on in
+put line 24.
+(pdftex.def)             Requested size: 219.02985pt x 144.54pt.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./exercise_pic/normals/plo
+t_data_normals.png>]
+<exercise_pic/normals/sep_plot_normals5.png, id=13, 942.52126pt x 752.8125pt>
+File: exercise_pic/normals/sep_plot_normals5.png Graphic file (type png)
+<use exercise_pic/normals/sep_plot_normals5.png>
+Package pdftex.def Info: exercise_pic/normals/sep_plot_normals5.png  used on in
+put line 31.
+(pdftex.def)             Requested size: 271.44016pt x 216.81pt.
+<exercise_pic/normals/conf_matrix_normals5.png, id=14, 779.91376pt x 801.99625p
+t>
+File: exercise_pic/normals/conf_matrix_normals5.png Graphic file (type png)
+<use exercise_pic/normals/conf_matrix_normals5.png>
+Package pdftex.def Info: exercise_pic/normals/conf_matrix_normals5.png  used on
+ input line 38.
+(pdftex.def)             Requested size: 210.84134pt x 216.81pt.
+
+Overfull \hbox (0.52846pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 Usando 10 neur^onios na ca-mada in-ter-medi^^Saria, pode-mos pe
+rce-ber uma tend^encia
+ []
+
+<exercise_pic/normals/plot_data_normals_10.png, id=15, 854.19125pt x 700.6175pt
+>
+File: exercise_pic/normals/plot_data_normals_10.png Graphic file (type png)
+<use exercise_pic/normals/plot_data_normals_10.png>
+Package pdftex.def Info: exercise_pic/normals/plot_data_normals_10.png  used on
+ input line 46.
+(pdftex.def)             Requested size: 264.32733pt x 216.81pt.
+[2 <./exercise_pic/normals/sep_plot_normals5.png> <./exercise_pic/normals/conf_
+matrix_normals5.png>]
+<exercise_pic/normals/conf_matrix_normals10.png, id=21, 786.94pt x 799.98875pt>
+
+File: exercise_pic/normals/conf_matrix_normals10.png Graphic file (type png)
+<use exercise_pic/normals/conf_matrix_normals10.png>
+Package pdftex.def Info: exercise_pic/normals/conf_matrix_normals10.png  used o
+n input line 53.
+(pdftex.def)             Requested size: 213.26915pt x 216.81pt.
+<exercise_pic/normals/sep_plot_normals30.png, id=22, 938.50626pt x 749.80125pt>
+
+File: exercise_pic/normals/sep_plot_normals30.png Graphic file (type png)
+<use exercise_pic/normals/sep_plot_normals30.png>
+Package pdftex.def Info: exercise_pic/normals/sep_plot_normals30.png  used on i
+nput line 61.
+(pdftex.def)             Requested size: 271.37222pt x 216.81pt.
+ [3 <./exercise_pic/normals/plot_data_normals_10.png> <./exercise_pic/normals/c
+onf_matrix_normals10.png>]
+<exercise_pic/normals/conf_matrix_normals30.png, id=28, 794.97pt x 807.015pt>
+File: exercise_pic/normals/conf_matrix_normals30.png Graphic file (type png)
+<use exercise_pic/normals/conf_matrix_normals30.png>
+Package pdftex.def Info: exercise_pic/normals/conf_matrix_normals30.png  used o
+n input line 69.
+(pdftex.def)             Requested size: 213.5773pt x 216.81pt.
+<exercise_pic/normals/plot_6_neurons.png, id=29, 854.19125pt x 700.6175pt>
+File: exercise_pic/normals/plot_6_neurons.png Graphic file (type png)
+<use exercise_pic/normals/plot_6_neurons.png>
+Package pdftex.def Info: exercise_pic/normals/plot_6_neurons.png  used on input
+ line 77.
+(pdftex.def)             Requested size: 264.32733pt x 216.81pt.
+ [4 <./exercise_pic/normals/sep_plot_normals30.png> <./exercise_pic/normals/con
+f_matrix_normals30.png>]
+<exercise_pic/xor/plot_data_xor.png, id=35, 778.91pt x 452.69125pt>
+File: exercise_pic/xor/plot_data_xor.png Graphic file (type png)
+<use exercise_pic/xor/plot_data_xor.png>
+Package pdftex.def Info: exercise_pic/xor/plot_data_xor.png  used on input line
+ 97.
+(pdftex.def)             Requested size: 248.6977pt x 144.54pt.
+<exercise_pic/xor/plot_graph_xor_5.png, id=36, 776.9025pt x 614.295pt>
+File: exercise_pic/xor/plot_graph_xor_5.png Graphic file (type png)
+<use exercise_pic/xor/plot_graph_xor_5.png>
+Package pdftex.def Info: exercise_pic/xor/plot_graph_xor_5.png  used on input l
+ine 105.
+(pdftex.def)             Requested size: 274.19601pt x 216.81pt.
+
+[5 <./exercise_pic/normals/plot_6_neurons.png> <./exercise_pic/xor/plot_data_xo
+r.png>]
+<exercise_pic/xor/conf_matrix_5_xor.png, id=42, 789.95125pt x 801.99625pt>
+File: exercise_pic/xor/conf_matrix_5_xor.png Graphic file (type png)
+<use exercise_pic/xor/conf_matrix_5_xor.png>
+Package pdftex.def Info: exercise_pic/xor/conf_matrix_5_xor.png  used on input 
+line 113.
+(pdftex.def)             Requested size: 213.55486pt x 216.81pt.
+<exercise_pic/xor/plot_graph_xor_10.png, id=43, 927.465pt x 749.80125pt>
+File: exercise_pic/xor/plot_graph_xor_10.png Graphic file (type png)
+<use exercise_pic/xor/plot_graph_xor_10.png>
+Package pdftex.def Info: exercise_pic/xor/plot_graph_xor_10.png  used on input 
+line 121.
+(pdftex.def)             Requested size: 268.1796pt x 216.81pt.
+ [6 <./exercise_pic/xor/plot_graph_xor_5.png> <./exercise_pic/xor/conf_matrix_5
+_xor.png>]
+<exercise_pic/xor/conf_matrix_10_xor.png, id=49, 774.895pt x 804.00375pt>
+File: exercise_pic/xor/conf_matrix_10_xor.png Graphic file (type png)
+<use exercise_pic/xor/conf_matrix_10_xor.png>
+Package pdftex.def Info: exercise_pic/xor/conf_matrix_10_xor.png  used on input
+ line 129.
+(pdftex.def)             Requested size: 208.9525pt x 216.81pt.
+<exercise_pic/xor/plot_graph_xor_30.png, id=50, 917.4275pt x 735.74875pt>
+File: exercise_pic/xor/plot_graph_xor_30.png Graphic file (type png)
+<use exercise_pic/xor/plot_graph_xor_30.png>
+Package pdftex.def Info: exercise_pic/xor/plot_graph_xor_30.png  used on input 
+line 137.
+(pdftex.def)             Requested size: 270.34479pt x 216.81pt.
+ [7 <./exercise_pic/xor/plot_graph_xor_10.png> <./exercise_pic/xor/conf_matrix_
+10_xor.png>]
+<exercise_pic/xor/conf_matrix_30_xor.png, id=57, 813.0375pt x 801.99625pt>
+File: exercise_pic/xor/conf_matrix_30_xor.png Graphic file (type png)
+<use exercise_pic/xor/conf_matrix_30_xor.png>
+Package pdftex.def Info: exercise_pic/xor/conf_matrix_30_xor.png  used on input
+ line 145.
+(pdftex.def)             Requested size: 219.79599pt x 216.81pt.
+<exercise_pic/circle/data_circle.png, id=58, 775.89874pt x 449.68pt>
+File: exercise_pic/circle/data_circle.png Graphic file (type png)
+<use exercise_pic/circle/data_circle.png>
+Package pdftex.def Info: exercise_pic/circle/data_circle.png  used on input lin
+e 164.
+(pdftex.def)             Requested size: 249.39372pt x 144.54pt.
+ [8 <./exercise_pic/xor/plot_graph_xor_30.png> <./exercise_pic/xor/conf_matrix_
+30_xor.png>]
+<exercise_pic/circle/plot_graph_circle_5.png, id=64, 774.895pt x 618.31pt>
+File: exercise_pic/circle/plot_graph_circle_5.png Graphic file (type png)
+<use exercise_pic/circle/plot_graph_circle_5.png>
+Package pdftex.def Info: exercise_pic/circle/plot_graph_circle_5.png  used on i
+nput line 172.
+(pdftex.def)             Requested size: 271.71391pt x 216.81pt.
+<exercise_pic/circle/conf_matrix_circle_5.png, id=65, 780.9175pt x 800.9925pt>
+File: exercise_pic/circle/conf_matrix_circle_5.png Graphic file (type png)
+<use exercise_pic/circle/conf_matrix_circle_5.png>
+Package pdftex.def Info: exercise_pic/circle/conf_matrix_circle_5.png  used on 
+input line 180.
+(pdftex.def)             Requested size: 211.37483pt x 216.81pt.
+ [9 <./exercise_pic/circle/data_circle.png> <./exercise_pic/circle/plot_graph_c
+ircle_5.png>]
+<exercise_pic/circle/plot_graph_10.png, id=71, 776.9025pt x 616.3025pt>
+File: exercise_pic/circle/plot_graph_10.png Graphic file (type png)
+<use exercise_pic/circle/plot_graph_10.png>
+Package pdftex.def Info: exercise_pic/circle/plot_graph_10.png  used on input l
+ine 188.
+(pdftex.def)             Requested size: 273.30693pt x 216.81pt.
+<exercise_pic/circle/conf_matrix_10.png, id=72, 787.94376pt x 810.02625pt>
+File: exercise_pic/circle/conf_matrix_10.png Graphic file (type png)
+<use exercise_pic/circle/conf_matrix_10.png>
+Package pdftex.def Info: exercise_pic/circle/conf_matrix_10.png  used on input 
+line 196.
+(pdftex.def)             Requested size: 210.8961pt x 216.81pt.
+ [10 <./exercise_pic/circle/conf_matrix_circle_5.png> <./exercise_pic/circle/pl
+ot_graph_10.png>]
+<exercise_pic/circle/plot_graph_30.png, id=78, 787.94376pt x 618.31pt>
+File: exercise_pic/circle/plot_graph_30.png Graphic file (type png)
+<use exercise_pic/circle/plot_graph_30.png>
+Package pdftex.def Info: exercise_pic/circle/plot_graph_30.png  used on input l
+ine 204.
+(pdftex.def)             Requested size: 276.28941pt x 216.81pt.
+<exercise_pic/circle/conf_matrix_30.png, id=79, 779.91376pt x 801.99625pt>
+File: exercise_pic/circle/conf_matrix_30.png Graphic file (type png)
+<use exercise_pic/circle/conf_matrix_30.png>
+Package pdftex.def Info: exercise_pic/circle/conf_matrix_30.png  used on input 
+line 212.
+(pdftex.def)             Requested size: 210.84134pt x 216.81pt.
+
+[11 <./exercise_pic/circle/conf_matrix_10.png> <./exercise_pic/circle/plot_grap
+h_30.png>]
+<exercise_pic/spirals/plot_graph_spirals.png, id=85, 782.925pt x 453.695pt>
+File: exercise_pic/spirals/plot_graph_spirals.png Graphic file (type png)
+<use exercise_pic/spirals/plot_graph_spirals.png>
+Package pdftex.def Info: exercise_pic/spirals/plot_graph_spirals.png  used on i
+nput line 254.
+(pdftex.def)             Requested size: 249.4301pt x 144.54pt.
+<exercise_pic/spirals/plot_graph_sep_spirals_5.png, id=86, 782.925pt x 622.325p
+t>
+File: exercise_pic/spirals/plot_graph_sep_spirals_5.png Graphic file (type png)
+
+<use exercise_pic/spirals/plot_graph_sep_spirals_5.png>
+Package pdftex.def Info: exercise_pic/spirals/plot_graph_sep_spirals_5.png  use
+d on input line 262.
+(pdftex.def)             Requested size: 272.76154pt x 216.81pt.
+ [12 <./exercise_pic/circle/conf_matrix_30.png> <./exercise_pic/spirals/plot_gr
+aph_spirals.png>]
+<exercise_pic/spirals/conf_matrix_spirals_5.png, id=92, 793.96625pt x 813.0375p
+t>
+File: exercise_pic/spirals/conf_matrix_spirals_5.png Graphic file (type png)
+<use exercise_pic/spirals/conf_matrix_spirals_5.png>
+Package pdftex.def Info: exercise_pic/spirals/conf_matrix_spirals_5.png  used o
+n input line 270.
+(pdftex.def)             Requested size: 211.72058pt x 216.81pt.
+<exercise_pic/spirals/plot_graph_sep_spirals_10.png, id=93, 778.91pt x 614.295p
+t>
+File: exercise_pic/spirals/plot_graph_sep_spirals_10.png Graphic file (type png
+)
+<use exercise_pic/spirals/plot_graph_sep_spirals_10.png>
+Package pdftex.def Info: exercise_pic/spirals/plot_graph_sep_spirals_10.png  us
+ed on input line 278.
+(pdftex.def)             Requested size: 274.90454pt x 216.81pt.
+ [13 <./exercise_pic/spirals/plot_graph_sep_spirals_5.png> <./exercise_pic/spir
+als/conf_matrix_spirals_5.png>]
+<exercise_pic/spirals/conf_matrix_spirals_10.png, id=100, 788.9475pt x 805.0075
+pt>
+File: exercise_pic/spirals/conf_matrix_spirals_10.png Graphic file (type png)
+<use exercise_pic/spirals/conf_matrix_spirals_10.png>
+Package pdftex.def Info: exercise_pic/spirals/conf_matrix_spirals_10.png  used 
+on input line 286.
+(pdftex.def)             Requested size: 212.47694pt x 216.81pt.
+<exercise_pic/spirals/plot_graph_sep_spirals_30.png, id=101, 778.91pt x 617.306
+24pt>
+File: exercise_pic/spirals/plot_graph_sep_spirals_30.png Graphic file (type png
+)
+<use exercise_pic/spirals/plot_graph_sep_spirals_30.png>
+Package pdftex.def Info: exercise_pic/spirals/plot_graph_sep_spirals_30.png  us
+ed on input line 294.
+(pdftex.def)             Requested size: 273.56152pt x 216.81pt.
+ [14 <./exercise_pic/spirals/plot_graph_sep_spirals_10.png> <./exercise_pic/spi
+rals/conf_matrix_spirals_10.png>]
+<exercise_pic/spirals/conf_matrix_spirals_30.png, id=107, 784.9325pt x 803.0pt>
+
+File: exercise_pic/spirals/conf_matrix_spirals_30.png Graphic file (type png)
+<use exercise_pic/spirals/conf_matrix_spirals_30.png>
+Package pdftex.def Info: exercise_pic/spirals/conf_matrix_spirals_30.png  used 
+on input line 302.
+(pdftex.def)             Requested size: 211.9346pt x 216.81pt.
+ [15 <./exercise_pic/spirals/plot_graph_sep_spirals_30.png> <./exercise_pic/spi
+rals/conf_matrix_spirals_30.png>] (./Ex5_.aux) ) 
+Here is how much of TeX's memory you used:
+ 1491 strings out of 478287
+ 29599 string characters out of 5849289
+ 314711 words of memory out of 5000000
+ 19692 multiletter control sequences out of 15000+600000
+ 473206 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,736b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr17.pfb>
+Output written on Ex5_.pdf (15 pages, 1582313 bytes).
+PDF statistics:
+ 132 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+

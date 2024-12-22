@@ -1,0 +1,36 @@
+=>PYTHONTEX#py#default#default#0#code#####35#
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import rpy2.robjects as ro
+from functools import partial
+from rpy2.robjects import pandas2ri
+from rpy2.robjects.packages import importr
+from rpy2.ipython import html
+html.html_rdataframe = partial(html.html_rdataframe, table_class = "docutils")
+%load_ext rpy2.ipython
+=>PYTHONTEX:SETTINGS#
+version=0.18
+outputdir=pythontex-files-Ex5_
+workingdir=.
+workingdirset=false
+gobble=none
+rerun=default
+hashdependencies=default
+makestderr=false
+stderrfilename=full
+keeptemps=none
+pyfuture=default
+pyconfuture=none
+pygments=true
+pygglobal=:GLOBAL||
+fvextfile=-1
+pyconbanner=none
+pyconfilename=stdin
+depythontex=false
+pygfamily=py|python3|
+pygfamily=pycon|pycon|
+pygfamily=sympy|python3|
+pygfamily=sympycon|pycon|
+pygfamily=pylab|python3|
+pygfamily=pylabcon|pycon|

@@ -1,0 +1,416 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.10)  14 APR 2024 23:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Ex6_.tex
+(./Ex6_.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+)
+(./Ex6_.aux)
+\openout1 = `Ex6_.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen142
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+<Ex6/Breast_Cancer/Plot_Breast.png, id=1, 882.29625pt x 377.41pt>
+File: Ex6/Breast_Cancer/Plot_Breast.png Graphic file (type png)
+<use Ex6/Breast_Cancer/Plot_Breast.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/Plot_Breast.png  used on input line 
+21.
+(pdftex.def)             Requested size: 337.90129pt x 144.54pt.
+<Ex6/Breast_Cancer/matrix_conf_5.png, id=3, 768.8725pt x 667.49374pt>
+File: Ex6/Breast_Cancer/matrix_conf_5.png Graphic file (type png)
+<use Ex6/Breast_Cancer/matrix_conf_5.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/matrix_conf_5.png  used on input lin
+e 30.
+(pdftex.def)             Requested size: 249.7398pt x 216.81pt.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Ex6/Breast_Cancer/Plot_B
+reast.png>]
+<Ex6/Breast_Cancer/acc_5.png, id=14, 873.2625pt x 493.845pt>
+File: Ex6/Breast_Cancer/acc_5.png Graphic file (type png)
+<use Ex6/Breast_Cancer/acc_5.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/acc_5.png  used on input line 37.
+(pdftex.def)             Requested size: 383.37056pt x 216.81pt.
+
+Overfull \hbox (38.37056pt too wide) in paragraph at lines 37--39
+ [] 
+ []
+
+<Ex6/Breast_Cancer/conf_matrix_10.png, id=15, 787.94376pt x 743.77875pt>
+File: Ex6/Breast_Cancer/conf_matrix_10.png Graphic file (type png)
+<use Ex6/Breast_Cancer/conf_matrix_10.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/conf_matrix_10.png  used on input li
+ne 47.
+(pdftex.def)             Requested size: 229.67609pt x 216.81pt.
+[2 <./Ex6/Breast_Cancer/matrix_conf_5.png> <./Ex6/Breast_Cancer/acc_5.png>]
+<Ex6/Breast_Cancer/acc_10.png, id=21, 873.2625pt x 493.845pt>
+File: Ex6/Breast_Cancer/acc_10.png Graphic file (type png)
+<use Ex6/Breast_Cancer/acc_10.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/acc_10.png  used on input line 54.
+(pdftex.def)             Requested size: 383.37056pt x 216.81pt.
+
+Overfull \hbox (38.37056pt too wide) in paragraph at lines 54--56
+ [] 
+ []
+
+<Ex6/Breast_Cancer/matrix_conf_30.png, id=22, 793.96625pt x 747.79375pt>
+File: Ex6/Breast_Cancer/matrix_conf_30.png Graphic file (type png)
+<use Ex6/Breast_Cancer/matrix_conf_30.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/matrix_conf_30.png  used on input li
+ne 64.
+(pdftex.def)             Requested size: 230.19585pt x 216.81pt.
+[3 <./Ex6/Breast_Cancer/conf_matrix_10.png> <./Ex6/Breast_Cancer/acc_10.png>]
+<Ex6/Breast_Cancer/acc_30.png, id=28, 783.92876pt x 341.275pt>
+File: Ex6/Breast_Cancer/acc_30.png Graphic file (type png)
+<use Ex6/Breast_Cancer/acc_30.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/acc_30.png  used on input line 71.
+(pdftex.def)             Requested size: 498.02847pt x 216.81pt.
+
+Overfull \hbox (153.02847pt too wide) in paragraph at lines 71--73
+ [] 
+ []
+
+<Ex6/Breast_Cancer/matrix_conf_50.png, id=29, 792.9625pt x 743.77875pt>
+File: Ex6/Breast_Cancer/matrix_conf_50.png Graphic file (type png)
+<use Ex6/Breast_Cancer/matrix_conf_50.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/matrix_conf_50.png  used on input li
+ne 81.
+(pdftex.def)             Requested size: 231.13899pt x 216.81pt.
+[4 <./Ex6/Breast_Cancer/matrix_conf_30.png> <./Ex6/Breast_Cancer/acc_30.png>]
+<Ex6/Breast_Cancer/acc_50.png, id=35, 776.9025pt x 357.335pt>
+File: Ex6/Breast_Cancer/acc_50.png Graphic file (type png)
+<use Ex6/Breast_Cancer/acc_50.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/acc_50.png  used on input line 88.
+(pdftex.def)             Requested size: 471.38481pt x 216.81pt.
+
+Overfull \hbox (126.38481pt too wide) in paragraph at lines 88--90
+ [] 
+ []
+
+<Ex6/Breast_Cancer/matrix_conf_100.png, id=36, 791.95876pt x 748.7975pt>
+File: Ex6/Breast_Cancer/matrix_conf_100.png Graphic file (type png)
+<use Ex6/Breast_Cancer/matrix_conf_100.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/matrix_conf_100.png  used on input l
+ine 100.
+(pdftex.def)             Requested size: 229.29962pt x 216.81pt.
+[5 <./Ex6/Breast_Cancer/matrix_conf_50.png> <./Ex6/Breast_Cancer/acc_50.png>]
+<Ex6/Breast_Cancer/acc_100.png, id=42, 780.9175pt x 333.245pt>
+File: Ex6/Breast_Cancer/acc_100.png Graphic file (type png)
+<use Ex6/Breast_Cancer/acc_100.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/acc_100.png  used on input line 107.
+
+(pdftex.def)             Requested size: 508.0789pt x 216.81pt.
+
+Overfull \hbox (163.0789pt too wide) in paragraph at lines 107--109
+ [] 
+ []
+
+<Ex6/Breast_Cancer/matrix_conf_300.png, id=43, 788.9475pt x 749.80125pt>
+File: Ex6/Breast_Cancer/matrix_conf_300.png Graphic file (type png)
+<use Ex6/Breast_Cancer/matrix_conf_300.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/matrix_conf_300.png  used on input l
+ine 119.
+(pdftex.def)             Requested size: 228.1268pt x 216.81pt.
+[6 <./Ex6/Breast_Cancer/matrix_conf_100.png> <./Ex6/Breast_Cancer/acc_100.png>]
+<Ex6/Breast_Cancer/acc_300.png, id=49, 792.9625pt x 337.26pt>
+File: Ex6/Breast_Cancer/acc_300.png Graphic file (type png)
+<use Ex6/Breast_Cancer/acc_300.png>
+Package pdftex.def Info: Ex6/Breast_Cancer/acc_300.png  used on input line 126.
+
+(pdftex.def)             Requested size: 509.769pt x 216.81pt.
+
+Overfull \hbox (164.769pt too wide) in paragraph at lines 126--128
+ [] 
+ []
+
+
+Overfull \hbox (2.58388pt too wide) in paragraph at lines 131--132
+[]\OT1/cmr/m/n/10 Portanto, ob-ser-vando as ma-trizes de con-fus~ao e as acur^^
+Sacias m^^Sedias, ^^Se poss^^S^^Pvel
+ []
+
+[7 <./Ex6/Breast_Cancer/matrix_conf_300.png> <./Ex6/Breast_Cancer/acc_300.png>]
+<Ex6/Hearth_Disease/data_health.png, id=56, 797.98125pt x 459.7175pt>
+File: Ex6/Hearth_Disease/data_health.png Graphic file (type png)
+<use Ex6/Hearth_Disease/data_health.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/data_health.png  used on input line
+ 141.
+(pdftex.def)             Requested size: 250.89055pt x 144.54pt.
+
+Overfull \hbox (4.5829pt too wide) in paragraph at lines 146--147
+[]\OT1/cmr/m/n/10 Inicialmente foi uti-lizado uma ELM com 5 neur^onios na ca-ma
+da in-ter-medi^^Saria.
+ []
+
+<Ex6/Hearth_Disease/conf_matrix_health_5.png, id=57, 595.22375pt x 619.31375pt>
+
+File: Ex6/Hearth_Disease/conf_matrix_health_5.png Graphic file (type png)
+<use Ex6/Hearth_Disease/conf_matrix_health_5.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/conf_matrix_health_5.png  used on i
+nput line 150.
+(pdftex.def)             Requested size: 208.37685pt x 216.81pt.
+<Ex6/Hearth_Disease/acc_5.png, id=58, 1068.99374pt x 499.8675pt>
+File: Ex6/Hearth_Disease/acc_5.png Graphic file (type png)
+<use Ex6/Hearth_Disease/acc_5.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/acc_5.png  used on input line 157.
+(pdftex.def)             Requested size: 463.65468pt x 216.81pt.
+
+Overfull \hbox (118.65468pt too wide) in paragraph at lines 157--159
+ [] 
+ []
+
+[8 <./Ex6/Hearth_Disease/data_health.png> <./Ex6/Hearth_Disease/conf_matrix_hea
+lth_5.png>]
+<Ex6/Hearth_Disease/conf_matrix_health_10.png, id=64, 767.86874pt x 810.02625pt
+>
+File: Ex6/Hearth_Disease/conf_matrix_health_10.png Graphic file (type png)
+<use Ex6/Hearth_Disease/conf_matrix_health_10.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/conf_matrix_health_10.png  used on 
+input line 167.
+(pdftex.def)             Requested size: 205.52295pt x 216.81pt.
+<Ex6/Hearth_Disease/acc_10.png, id=65, 1054.94125pt x 492.84125pt>
+File: Ex6/Hearth_Disease/acc_10.png Graphic file (type png)
+<use Ex6/Hearth_Disease/acc_10.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/acc_10.png  used on input line 174.
+
+(pdftex.def)             Requested size: 464.09511pt x 216.81pt.
+
+Overfull \hbox (119.09511pt too wide) in paragraph at lines 174--176
+ [] 
+ []
+
+[9 <./Ex6/Hearth_Disease/acc_5.png> <./Ex6/Hearth_Disease/conf_matrix_health_10
+.png>]
+<Ex6/Hearth_Disease/conf_matrix_health_30.png, id=71, 773.89125pt x 806.01125pt
+>
+File: Ex6/Hearth_Disease/conf_matrix_health_30.png Graphic file (type png)
+<use Ex6/Hearth_Disease/conf_matrix_health_30.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/conf_matrix_health_30.png  used on 
+input line 184.
+(pdftex.def)             Requested size: 208.16225pt x 216.81pt.
+<Ex6/Hearth_Disease/acc_30.png, id=72, 948.54375pt x 405.515pt>
+File: Ex6/Hearth_Disease/acc_30.png Graphic file (type png)
+<use Ex6/Hearth_Disease/acc_30.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/acc_30.png  used on input line 191.
+
+(pdftex.def)             Requested size: 507.15471pt x 216.81pt.
+
+Overfull \hbox (162.15471pt too wide) in paragraph at lines 191--193
+ [] 
+ []
+
+[10 <./Ex6/Hearth_Disease/acc_10.png> <./Ex6/Hearth_Disease/conf_matrix_health_
+30.png>]
+<Ex6/Hearth_Disease/conf_mat_50.png, id=78, 780.9175pt x 796.9775pt>
+File: Ex6/Hearth_Disease/conf_mat_50.png Graphic file (type png)
+<use Ex6/Hearth_Disease/conf_mat_50.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/conf_mat_50.png  used on input line
+ 201.
+(pdftex.def)             Requested size: 212.43535pt x 216.81pt.
+<Ex6/Hearth_Disease/acc_50.png, id=79, 945.5325pt x 463.7325pt>
+File: Ex6/Hearth_Disease/acc_50.png Graphic file (type png)
+<use Ex6/Hearth_Disease/acc_50.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/acc_50.png  used on input line 208.
+
+(pdftex.def)             Requested size: 442.07748pt x 216.81pt.
+
+Overfull \hbox (97.07748pt too wide) in paragraph at lines 208--210
+ [] 
+ []
+
+[11 <./Ex6/Hearth_Disease/acc_30.png> <./Ex6/Hearth_Disease/conf_mat_50.png>]
+<Ex6/Hearth_Disease/conf_mat_100.png, id=85, 768.8725pt x 831.105pt>
+File: Ex6/Hearth_Disease/conf_mat_100.png Graphic file (type png)
+<use Ex6/Hearth_Disease/conf_mat_100.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/conf_mat_100.png  used on input lin
+e 220.
+(pdftex.def)             Requested size: 200.57086pt x 216.81pt.
+<Ex6/Hearth_Disease/acc_100.png, id=86, 781.92125pt x 335.2525pt>
+File: Ex6/Hearth_Disease/acc_100.png Graphic file (type png)
+<use Ex6/Hearth_Disease/acc_100.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/acc_100.png  used on input line 227
+.
+(pdftex.def)             Requested size: 505.66566pt x 216.81pt.
+
+Overfull \hbox (160.66566pt too wide) in paragraph at lines 227--229
+ [] 
+ []
+
+[12 <./Ex6/Hearth_Disease/acc_50.png> <./Ex6/Hearth_Disease/conf_mat_100.png>]
+<Ex6/Hearth_Disease/conf_mat_300.png, id=92, 767.86874pt x 827.09pt>
+File: Ex6/Hearth_Disease/conf_mat_300.png Graphic file (type png)
+<use Ex6/Hearth_Disease/conf_mat_300.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/conf_mat_300.png  used on input lin
+e 239.
+(pdftex.def)             Requested size: 201.2815pt x 216.81pt.
+<Ex6/Hearth_Disease/acc_300.png, id=93, 787.94376pt x 337.26pt>
+File: Ex6/Hearth_Disease/acc_300.png Graphic file (type png)
+<use Ex6/Hearth_Disease/acc_300.png>
+Package pdftex.def Info: Ex6/Hearth_Disease/acc_300.png  used on input line 246
+.
+(pdftex.def)             Requested size: 506.54262pt x 216.81pt.
+
+Overfull \hbox (161.54262pt too wide) in paragraph at lines 246--248
+ [] 
+ []
+
+[13 <./Ex6/Hearth_Disease/acc_100.png> <./Ex6/Hearth_Disease/conf_mat_300.png>]
+
+Overfull \hbox (2.58388pt too wide) in paragraph at lines 251--253
+[]\OT1/cmr/m/n/10 Portanto, ob-ser-vando as ma-trizes de con-fus~ao e as acur^^
+Sacias m^^Sedias, ^^Se poss^^S^^Pvel
+ []
+
+<Ex6/perceptron/train_perceptron.png, id=100, 800.9925pt x 806.01125pt>
+File: Ex6/perceptron/train_perceptron.png Graphic file (type png)
+<use Ex6/perceptron/train_perceptron.png>
+Package pdftex.def Info: Ex6/perceptron/train_perceptron.png  used on input lin
+e 262.
+(pdftex.def)             Requested size: 215.45198pt x 216.81pt.
+[14 <./Ex6/Hearth_Disease/acc_300.png>]
+<Ex6/perceptron/conf_matrix_Breast.png, id=105, 772.8875pt x 732.7375pt>
+File: Ex6/perceptron/conf_matrix_Breast.png Graphic file (type png)
+<use Ex6/perceptron/conf_matrix_Breast.png>
+Package pdftex.def Info: Ex6/perceptron/conf_matrix_Breast.png  used on input l
+ine 276.
+(pdftex.def)             Requested size: 228.68384pt x 216.81pt.
+<Ex6/perceptron/acc_Breast_Cancer.png, id=106, 1054.94125pt x 469.755pt>
+File: Ex6/perceptron/acc_Breast_Cancer.png Graphic file (type png)
+<use Ex6/perceptron/acc_Breast_Cancer.png>
+Package pdftex.def Info: Ex6/perceptron/acc_Breast_Cancer.png  used on input li
+ne 283.
+(pdftex.def)             Requested size: 486.88858pt x 216.81pt.
+
+Overfull \hbox (141.88858pt too wide) in paragraph at lines 283--285
+ [] 
+ []
+
+[15 <./Ex6/perceptron/train_perceptron.png> <./Ex6/perceptron/conf_matrix_Breas
+t.png>]
+<Ex6/perceptron/conf_matrix_hearth.png, id=112, 767.86874pt x 730.73pt>
+File: Ex6/perceptron/conf_matrix_hearth.png Graphic file (type png)
+<use Ex6/perceptron/conf_matrix_hearth.png>
+Package pdftex.def Info: Ex6/perceptron/conf_matrix_hearth.png  used on input l
+ine 294.
+(pdftex.def)             Requested size: 227.83159pt x 216.81pt.
+<Ex6/perceptron/acc_hearth.png, id=113, 783.92876pt x 284.06125pt>
+File: Ex6/perceptron/acc_hearth.png Graphic file (type png)
+<use Ex6/perceptron/acc_hearth.png>
+Package pdftex.def Info: Ex6/perceptron/acc_hearth.png  used on input line 301.
+
+(pdftex.def)             Requested size: 598.35187pt x 216.81pt.
+
+Overfull \hbox (253.35187pt too wide) in paragraph at lines 301--303
+ [] 
+ []
+
+[16 <./Ex6/perceptron/acc_Breast_Cancer.png> <./Ex6/perceptron/conf_matrix_hear
+th.png>] [17 <./Ex6/perceptron/acc_hearth.png>] (./Ex6_.aux) ) 
+Here is how much of TeX's memory you used:
+ 1495 strings out of 478287
+ 28345 string characters out of 5849289
+ 312711 words of memory out of 5000000
+ 19701 multiletter control sequences out of 15000+600000
+ 473206 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,430b,193s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Ex6_.pdf (17 pages, 1459813 bytes).
+PDF statistics:
+ 142 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+

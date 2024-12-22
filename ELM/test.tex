@@ -1,0 +1,39 @@
+%% To create a PDF : pdflatex test.tex
+%% To see the PDF : evince test.pdf
+\documentclass{article}
+\usepackage{listings}
+\usepackage{xcolor}
+
+% Define formatting for Python code
+\lstnewenvironment{python}[1][]
+{
+    \lstset{
+        language=Python,
+        basicstyle=\small\ttfamily,
+        keywordstyle=\color{blue},
+        stringstyle=\color{red},
+        commentstyle=\color{green!50!black},
+        morekeywords={True, False},
+        numbers=left,
+        numberstyle=\tiny\color{gray},
+        #1
+    }
+}
+{}
+
+\begin{document}
+
+\section{Python Code Example}
+
+Here's an example of Python code included in a LaTeX document:
+
+\begin{python}[caption=My Python code,label=lst:python_example]
+def hello_world ():
+    print ("Hello, world!")
+    
+hello_world ()
+\end{python}
+
+As you can see in Listing~\ref{lst:python_example}, the code defines a simple function \texttt{hello\_world ()} that prints '' Hello, world!'' when called.
+
+\end{document}

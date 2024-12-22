@@ -1,0 +1,126 @@
+rm(list=ls())
+
+sech2<- function (u)
+{
+  return (((2/(exp(u)+exp(-u)))*(2/(exp(u)+exp(-u)))))
+  
+}
+
+xin <- matrix (c(0,0,0,1,1,0,1,1), ncol=2, nrow=4, byrow=TRUE) 
+yin <- matrix (c(-1,1,1,-1,1,-1,-1,1), ncol=2, nrow=4, byrow=TRUE)
+
+
+w15 <- runif(1)-0.5 
+w16 <- runif(1)-0.5 
+
+w25 <- runif(1)-0.5 
+w26 <- runif(1)-0.5 
+
+w35 <- runif(1)-0.5 
+w36 <- runif(1)-0.5 
+
+w47 <- runif(1)-0.5 
+w48 <- runif(1)-0.5 
+
+w57 <- runif(1)-0.5 
+w58 <- runif(1)-0.5 
+
+w67 <- runif(1)-0.5 
+w68 <- runif(1)-0.5 
+
+
+nepocas<-0
+tol<-0.1
+eepoca<-tol+1
+maxepocas<-1000
+N<-4
+eta<-0.01
+
+evec<-matrix(nrow=1, ncol=maxepocas)
+
+while((nepocas<maxepocas) &&(eepoca>tol))
+{
+  
+  ei2<-0
+  xseq<-sample(N)
+  for (i in 1:N){
+    
+    irand<-xseq[i]
+    i2 <- xin[irand,1]
+    i3 <- xin[irand,2]
+    y7 <- yin[irand,1]
+    y8 <- yin[irand, 2]
+    i1 <- 1
+    i4 <- 1
+    
+    u5 <- i1*w15+i2*w25+i3*w35
+    u6 <- i1*w16+i2*w26+i3*w36
+    
+    i5 <- tanh(u5)
+    i6 <- tanh(u6)
+    
+    u7 <- i4*w47+i5*w57+i6*w67
+    u8 <- i4*w48+i5*w58+i6*w68
+    
+    i7 <-tanh(u7)
+    i8 <- tanh(u8)
+    
+    
+    e7 <- y7-i7
+    e8 <- y8-i8
+    
+    d7 <- e7*sech2(u7)
+    d8 <- e8*sech2(u8)
+    
+    dw47 <- eta*d7*i4
+    dw48 <- eta*d8*i4
+    
+    dw57 <- eta*d7*i5
+    dw58 <- eta*d8*i5
+    
+    dw67 <- eta*d7*i6
+    dw68 <- eta*d8*i6
+    
+    d5 <- (d7*w57+d8*w58)*sech2(u5)
+    d6 <- (d7*w67+d8*w68)*sech2(u6)
+    
+    dw15 <- eta*d5*i1
+    dw16 <- eta*d6*i1
+    
+    dw25 <- eta*d5*i2
+    dw26 <- eta*d6*i2
+    
+    dw35 <- eta*d5*i3
+    dw36 <- eta*d6*i3
+    
+    w15 <- w15+dw15 
+    w16 <- w16+dw16
+    
+    w25 <- w25+dw25 
+    w26 <- w26+dw26 
+    
+    w35 <- w35+dw35 
+    w36 <- w36+dw36 
+    
+    w47 <- w47+dw47 
+    w48 <- w48+dw48 
+    
+    w57 <- w57+dw57 
+    w58 <- w58+dw58 
+    
+    w67 <- w67+dw67 
+    w68 <- w68+dw68
+    
+    ei2<-ei2+((e7^2+e8^2))/4
+    
+  }
+  
+  nepocas<-nepocas+1
+  evec[nepocas]<-ei2/N
+  
+  eepoca<-evec[nepocas]
+  
+}
+
+
+plot (seq(1, nepocas, 1), evec[1:nepocas], type = 'l')

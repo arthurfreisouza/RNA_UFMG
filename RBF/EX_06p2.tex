@@ -1,0 +1,87 @@
+\documentclass{article}
+\usepackage{graphicx} % Load the graphicx package  
+
+% Define a style for Python code
+\begin{document}
+
+\title{Exercício 6p2} 
+\author{Arthur Felipe Reis Souza}
+\date{\today}
+\maketitle
+
+\vspace{20pt}
+
+\section{Regularização}
+
+\vspace{20pt}
+
+As técnicas de regularização são técnicas utilizadas em algoritmos de Machine Learning para evitar o sobreajuste(overfitting) do modelo. Há várias técnicas de regularização que são úteis para deixar o modelo não inviesado, sendo elas : Lasso Regularization (L1 Regularization), Ridge Regularization (L2 Regularization), DropOut, Elastic Net Regularization, Batch Normalization, Early stopping.
+\vspace{20pt}
+
+Cada uma dessas técnicas tem o intuito de reduzir o overfitting do modelo, por hora estudaremos as técnicas Lasso Regularization e Ridge Regularization, que consiste na adição de um termo penalizador na função de custo J. A adição desse termo penalizador na função de custo J, tende a reduzir o overfitting, pois agora a função de custo será multivariada, ou seja, terá dois termos que serão minimizadas em conjunto.
+\vspace{20pt}
+
+Para entender melhor a necessidade desse termo penalizador, é necessário entender a relação entre bias e variance. Bias é a média dos erros do modelo nos dados de treino, enquanto Variance é a média dos erros do modelo para os dados de teste. A adição desse termo penalizador trará um tradeoff conhecido como tradeoff Bias-Variance. Esse tradeoff indica que a adição de um termo penalizador irá reduzir o aumentar o Bias e reduzir o Variance. Ou seja, ele não se ajustará totalmente aos dados de treino e irá errar mais sobre os mesmos. Em contrapartida ele terá um melhor desempenho sobre os dados de teste, sendo uma melhor generalização e se aproximando mais de uma função geradora.
+\vspace{60pt}
+
+A imagem abaixo retrata o gráfico da função de custo em função dos pesos da rede : 
+\begin{center}
+
+\includegraphics[height=3in]{graph_Jxw.png}
+
+\end{center}
+
+\vspace{20pt}
+
+O gráfico de pareto é um gráfico que mostrará as regiões da minimização conjunta desses termos que serão minimizados. Para cada ponto do gráfico de Pareto, teremos 1 relação entre o termo de custo relacionado aos parâmetros w da rede e também da norma do vetor, que limitará o ajuste de parâmetros do modelo.
+\begin{center}
+
+\includegraphics[height=3in]{Pareto_graph.png}
+
+\end{center}
+
+\vspace{20pt}
+
+Analisando o gráfico de Pareto, é possível observar que a região destacada em vermelho será uma região onde as respostas serão desejadas, pois terá um erro baixo e uma norma baixa, evitando o overfitting. Portanto, os pontos nessa região são de interesse e também serão estudados pois há um tradeoff entre a função de erro da rede em função dos parametros, e também da norma dos parâmetros da rede.
+
+\vspace{60pt}
+O exercício é bastante simples e consistirá de apenas alterar, no exercício xor da última semana, valor de $\lambda$ e observar a suavização da resposta. As imagens abaixo mostram, para o mesmo conjunto p = 100 de neurônios da camada intermediária, diferentes respostas do modelo.
+\vspace{20pt}
+\begin{center}
+
+\includegraphics[height=3in]{exxor_notreg.png}
+
+\end{center}
+\vspace{20pt}
+\begin{center}
+
+\includegraphics[height=3in]{exxor_reg.png}
+
+\end{center}
+\vspace{20pt}
+
+É possível observar, claramente que, enquanto o modelo sem regularização aprende os ruídos, o modelo com regularização não os aprende e tende a ser uma melhor generalização da função geradora do gráfico.
+\vspace{20pt}
+
+O segundo exercício consiste em plotar o gráfico da parcela do erro referente aos parâmetros w, e a norma dos vetores w. O gráfico está registrado abaixo : 
+\begin{center}
+
+\includegraphics[height=3in]{lst_errors_lamx_lst_pesos_w.png}
+
+\end{center}
+É possível concluir, analisando o gráfico acima que o erro relacionado aos parâmetros w da função de custo tende a estabilizar com uma norma maior do que 6. Ou seja, plotando o gráfico da função de custo multivariada, o termo referente a diferença da saída real e saída do modelo se estabilizará em um ponto onde a diferença entre as saídas é 20, para um $\lambda$ variando de 0 a 5, com 1 passo de 0.01.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
